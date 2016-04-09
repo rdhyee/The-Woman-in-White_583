@@ -1,0 +1,60 @@
+_repo: The-Woman-in-White_583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: "The Woman in White is Wilkie Collins' fifth published novel, written\
+  \ in 1859. It is considered to be among the first mystery novels and is widely regarded\
+  \ as one of the first (and finest) in the genre of \"sensation novels\".\nThe story\
+  \ is sometimes considered an early example of detective fiction with protagonist\
+  \ Walter Hartright employing many of the sleuthing techniques of later private detectives.\
+  \ The use of multiple narrators (including nearly all the principal characters)\
+  \ draws on Collins's legal training, and as he points out in his Preamble: \"the\
+  \ story here presented will be told by more than one pen, as the story of an offence\
+  \ against the laws is told in Court by more than one witness\". In 2003, Robert\
+  \ McCrum writing for The Observer listed The Woman in White number 23 in \"the top\
+  \ 100 greatest novels of all time\", and the novel was listed at number 77 on the\
+  \ BBC's survey The Big Read.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Mystery Fiction
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '583'
+  wikidata: Q1212672
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Deception -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Psychiatric hospital patients -- Fiction'
+- !lcsh 'Art teachers -- Fiction'
+- GITenberg
+title: The Woman in White
+url: http://www.gutenberg.org/ebooks/583
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Femme_en_blanc
+- https://ar.wikipedia.org/wiki/%D8%B0%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6
+- https://ja.wikipedia.org/wiki/%E7%99%BD%E8%A1%A3%E3%81%AE%E5%A5%B3
+- https://pl.wikipedia.org/wiki/Kobieta_w_bieli
+- https://de.wikipedia.org/wiki/Die_Frau_in_Wei%C3%9F
+- https://es.wikipedia.org/wiki/La_dama_de_blanco_(Wilkie_Collins)
+- https://ml.wikipedia.org/wiki/%E0%B4%A6_%E0%B4%B5%E0%B5%81%E0%B4%AE%E0%B5%BA_%E0%B4%87%E0%B5%BB_%E0%B4%B5%E0%B5%88%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D
+- https://cy.wikipedia.org/wiki/The_Woman_in_White
+- https://en.wikipedia.org/wiki/The_Woman_in_White_(novel)
+- https://it.wikipedia.org/wiki/La_donna_in_bianco
+- https://ca.wikipedia.org/wiki/La_dama_de_blanc
